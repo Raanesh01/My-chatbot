@@ -65,7 +65,7 @@ for message in st.session_state.chat_history:
         st.markdown(message["content"])
 
 # Input field for user's message
-user_prompt = st.chat_input("Ask Raanesh Anything... (Supports Tanglish!)")
+user_prompt = st.chat_input("Ask Raanesh Anything...")
 
 if user_prompt:
     # Add user's message to the chat and display
