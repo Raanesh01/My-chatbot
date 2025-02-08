@@ -44,3 +44,10 @@ You can deploy this chatbot on:
 2) Render.
 3) Hugging Face Spaces.
 4) Heroku
+
+## Usage Samples
+
+![Image](https://github.com/user-attachments/assets/f27f8841-ea60-4c46-80f6-977ccf9f19c6)
+
+
+![Image](https://github.com/user-attachments/assets/a02658dd-98c4-4b36-8f1a-26668b41a0d4)
