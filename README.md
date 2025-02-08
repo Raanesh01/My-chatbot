@@ -12,7 +12,7 @@ This is a simple yet powerful AI chatbot built using Google's Gemini API and Str
 
 ### Clone the repository :
 
-git clone https://github.com/Raanesh01/Raanesh-Chatbot.git
+git clone https://github.com/Raanesh01/My-Chatbot.git
 
 cd My Chatbot
 
