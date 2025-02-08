@@ -14,8 +14,6 @@ This is a simple yet powerful AI chatbot built using Google's Gemini API and Str
 
 git clone https://github.com/Raanesh01/My-Chatbot.git
 
-cd My Chatbot
-
 
 ### Install dependencies :
 
